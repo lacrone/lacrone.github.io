@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#topbar {
+.topbar {
     background-color:#244f26;
 
 }
-#topbar a {
+.topbar a {
     color:#ffffff;
 }
